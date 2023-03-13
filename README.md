@@ -21,6 +21,7 @@
 
 ## Projects to check out
 - [Townsfolk-Generator](https://github.com/jacobgt7/Townsfolk-Generator)
+- [ChuckleBucket](https://github.com/jacobgt7/ChuckleBucket)
 
 <!--
 **jacobgt7/jacobgt7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
