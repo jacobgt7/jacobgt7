@@ -1,7 +1,7 @@
 # Jacob Thomas
-*I am a student at Nashville Software School studying full-stack web development*
+*I am a recent graduate from Nashville Software School, seeking my first developer role.*
 
-- 🌱 I’m currently learning C# for server-side web development
+- 🌱 I’m currently learning to write unit tests in C#/.NET using Xunit
 
 - 📫 Message me on LinkedIn [here](https://www.linkedin.com/in/jacobgthomas/)
 
@@ -10,6 +10,14 @@
 - React
 - HTML
 - CSS
+- C#
+- .NET
+- ASP.NET
+- SQL Server
+- Git
+- Github
+- Visual Studio
+- VS Code
 
 ## Projects to check out
 - [Townsfolk-Generator](https://github.com/jacobgt7/Townsfolk-Generator)
