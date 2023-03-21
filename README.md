@@ -1,7 +1,7 @@
 # Jacob Thomas
 *I am a recent graduate from Nashville Software School, seeking my first developer role.*
 
-- 🌱 I’m currently learning to write unit tests in C#/.NET using Xunit
+- 🌱 I’m currently learning TypeScript.
 
 - 📫 Message me on LinkedIn [here](https://www.linkedin.com/in/jacobgthomas/)
 
