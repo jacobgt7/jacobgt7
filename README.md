@@ -1,7 +1,7 @@
 # Jacob Thomas
 *I am a recent graduate from Nashville Software School, seeking my first developer role.*
 
-- 🌱 I’m currently learning TypeScript.
+- 🌱 I’m currently re-learning C# with .NET 6.
 
 - 📫 Message me on LinkedIn [here](https://www.linkedin.com/in/jacobgthomas/)
 
